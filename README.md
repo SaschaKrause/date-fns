@@ -10,17 +10,18 @@
   for manipulating <b>JavaScript dates</b> in <b>a browser</b> & <b>Node.js</b>.</b>
 </p>
 
+<div align="center">
+  
+  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#docs)
+  
+</div>
+
 <p align="center">
   <a href="https://www.npmjs.com/package/date-fns">
     <img src="https://nodei.co/npm/date-fns.png?compact=true">
   </a>
 </p>
 
-<div align="center">
-  
-  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#docs)
-  
-</div>
 <hr>
 
 # It's like [lodash](https://lodash.com) for dates(#tldr)
