@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#docs)
+  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#javascript-jobs-by-date-fns)
   
 </div>
 
