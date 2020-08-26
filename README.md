@@ -1,17 +1,32 @@
-# ![](https://cdn.rawgit.com/date-fns/date-fns/c5bcd92d04f14da194e6298101a6509b1c3b30f0/docs/logo.svg) date-fns
+<p align="center">
+  <a href="https://date-fns.org/">
+    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qrx4Itg.png" >
+  </a>
+</p>
 
-🔥🔥🔥 **date-fns v2 is out!** 🔥🔥🔥
+<p align="center">
+  <b>date-fns</b> provides the most comprehensive, yet simple and consistent toolset 
+  <br>
+  for manipulating <b>JavaScript dates</b> in <b>a browser</b> & <b>Node.js</b>.</b>
+</p>
 
-⭐️ **Upgrading from v1 to v2?**
+<p align="center">
+  <a href="https://www.npmjs.com/package/date-fns">
+    <img src="https://nodei.co/npm/date-fns.png?compact=true">
+  </a>
+</p>
 
-- [See the changelog](https://github.com/date-fns/date-fns/blob/master/CHANGELOG.md)
-- Check out [@date-fns/upgrade](https://github.com/date-fns/date-fns-upgrade) and [@date-fns/upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod), they could help you with the upgrade!
+<hr>
+<p align="center">
+  <b>date-fns v2 is out 🚀</b> 
+  <br>
+  <a href="https://github.com/date-fns/date-fns/blob/master/CHANGELOG.md">see the changelog</a> and checkout <a href="https://github.com/date-fns/date-fns-upgrade">@date-fns/upgrade</a> / <a href="https://github.com/date-fns/date-fns-upgrade-codemod">@date-fns/upgrade-codemod</a> if you are coming from v1.
+</p>
 
-**date-fns** provides the most comprehensive, yet simple and consistent toolset
-for manipulating **JavaScript dates** in **a browser** & **Node.js**.
-
-**date-fns** is like [lodash](https://lodash.com) for dates. It has
-[**180+ functions** for all occasions](https://date-fns.org/docs/).
+# Like [lodash](https://lodash.com) for dates
+- it has [**180+ functions** for all occasions](https://date-fns.org/docs/).
+- **Modular**: fdgg fd 
+- **Native dates**: asdsa
 
 ```js
 import { compareAsc, format } from 'date-fns'
