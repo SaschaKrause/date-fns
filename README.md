@@ -14,8 +14,11 @@
   
   [🚀 date-fns v2 is out](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📖 Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[🧑‍💻 JavaScript Jobs](#javascript-jobs-by-date-fns)
   
+  <sub>
+  
    Powering **>500k Projects** & Generating **~7 Million Downloads/Week**
     
+   </sub>
 </div>
 
 
