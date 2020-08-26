@@ -15,13 +15,18 @@
     <img src="https://nodei.co/npm/date-fns.png?compact=true">
   </a>
 </p>
+`Website <https://dvc.org>`_
+• `Docs <https://dvc.org/doc>`_
+• `Blog <http://blog.dataversioncontrol.com>`_
 
-
-<p align="center">
-  <a href="asdf">date-fns v2 is out 🚀</a> 
-</p>
+<div align="center">
+  
+  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation][docs]
+  
+</div>
 <hr>
-# It's like [lodash](https://lodash.com) for dates
+
+# It's like [lodash](https://lodash.com) for dates(#tldr)
 - it has [**180+ functions** for all occasions](https://date-fns.org/docs/).
 - **Modular**: fdgg fd 
 - **Native dates**: asdsa
