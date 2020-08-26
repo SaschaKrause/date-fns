@@ -15,13 +15,10 @@
     <img src="https://nodei.co/npm/date-fns.png?compact=true">
   </a>
 </p>
-`Website <https://dvc.org>`_
-• `Docs <https://dvc.org/doc>`_
-• `Blog <http://blog.dataversioncontrol.com>`_
 
 <div align="center">
   
-  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation][docs]
+  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation][#docs]
   
 </div>
 <hr>
