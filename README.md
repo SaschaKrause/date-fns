@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [🚀 date-fns v2 is out](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📖 Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[🧑‍💻 JavaScript Jobs](#javascript-jobs-by-date-fns)
+  [🚀&nbsp;date-fns v2 is out](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📖&nbsp;Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[🧑‍💻&nbsp;JavaScript Jobs](#javascript-jobs-by-date-fns)
   
   <sub>
   
@@ -77,9 +77,9 @@ We help people find their JavaScript Dream-Job. Learn more about it <b><a href="
 <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/ad" width="270"></a>
 <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/ad" width="270"></a>
 
-  👋  Know someone who's looking for JavaScript devs? [Recommend us a job!](https://jobs.date-fns.org/#recommend) 
+  👋&nbsp; Know someone who's looking for JavaScript devs? [Recommend us a job!](https://jobs.date-fns.org/#recommend) 
   <br>
-  ✉️  Get jobs worth sharing to your email! [Subscribe to the newsletter](https://jobs.date-fns.org).
+  ✉️&nbsp; Get jobs worth sharing to your email! [Subscribe to the newsletter](https://jobs.date-fns.org).
   
 
 <br />
