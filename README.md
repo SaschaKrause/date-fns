@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#docs)
+  [date-fns v2 is out 🚀](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript Jobs](#docs)
   
 </div>
 
@@ -31,7 +31,7 @@
 - **Native dates**: Uses existing native type. It doesn't extend core objects for safety's sake.
 - **Immutable & Pure**: Built using pure functions and always returns a new date instance.
 - **TypeScript & Flow**: Supports both Flow and TypeScript
-- **I18n**: I18n
+- **I18n**: Dozens of locales. Include only what you need.
 - [and many more benefits](https://date-fns.org/)
 
 ```js
@@ -69,9 +69,32 @@ and other docs.
 
 ## JavaScript jobs by date-fns
 
-👋 Know someone who's looking for JavaScript devs? [Recommend us a job!](https://jobs.date-fns.org/#recommend)
+<!-- START OF README-JOB SECTION -->
 
-✉️ Get jobs worth sharing to your email! [Subscribe to the newsletter](https://jobs.date-fns.org).
+
+<p align="center">
+
+  <br />
+  We help people find their JavaScript Dream-Job. 
+  <br />
+  Learn more about it <b><a href="https://jobs.date-fns.org/">here</a></b>.
+<p>
+<p align="center">
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/1/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/2/ad" width="270"></a>
+  <a href="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/link" target="_blank"><img src="https://fetch.readme-jobs.com/rmj-rec1fZdbrN6qruPot/3/ad" width="270"></a>
+<p>
+
+<p align="center">
+  👋 Know someone who's looking for JavaScript devs? [Recommend us a job!](https://jobs.date-fns.org/#recommend)
+  <br>
+  ✉️ Get jobs worth sharing to your email! [Subscribe to the newsletter](https://jobs.date-fns.org).
+</p>
+
+<br />
+<!-- END OF README-JOB SECTION -->
+
+
 
 ## License
 
