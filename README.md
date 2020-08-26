@@ -25,10 +25,14 @@
 <hr>
 
 # It's like [lodash](https://lodash.com) for dates
+
 - it has [**180+ functions** for all occasions](https://date-fns.org/docs/).
-- **Modular**: Pick just what you need and stop bloating your project with useless functionality. Works with webpack, Browserify, or Rollup and also supports tree-shaking.
-- **Native dates**: date-fns uses the existing native type. It doesn't extend core objects for safety's sake. Also, it sticks to ECMAScript behavior in edge cases.
-- **Immutable & Pure**: To prevent bugs, date-fns is built using pure functions and always returns a new date instance instead of changing the passed one.
+- **Modular**: Pick what you need. Works with webpack, Browserify, or Rollup and also supports tree-shaking.
+- **Native dates**: Uses existing native type. It doesn't extend core objects for safety's sake.
+- **Immutable & Pure**: Built using pure functions and always returns a new date instance.
+- **TypeScript & Flow**: Supports both Flow and TypeScript
+- **I18n**: I18n
+- [and many more benefits](https://date-fns.org/)
 
 ```js
 import { compareAsc, format } from 'date-fns'
