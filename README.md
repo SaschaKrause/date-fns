@@ -11,12 +11,11 @@
 </p>
 
 <div align="center">
+   
+  Powering **>500k Projects** & Generating **~7 Million Downloads/Week**
   
   [🚀 date-fns v2 is out](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📖 Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[🧑‍💻 JavaScript Jobs](#javascript-jobs-by-date-fns)
   
-  
-  Powering **>500k Projects**. 
-  Generating **~7 Million Downloads/Week**
 </div>
 
 
