@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://date-fns.org/">
-    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/qrx4Itg.png" >
+    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/SCgdGAO.png" >
   </a>
 </p>
 
