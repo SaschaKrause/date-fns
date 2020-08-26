@@ -86,9 +86,13 @@ and other docs.
 <p>
 
 <p align="center">
+  
   👋 Know someone who's looking for JavaScript devs? [Recommend us a job!](https://jobs.date-fns.org/#recommend)
+  
   <br>
+  
   ✉️ Get jobs worth sharing to your email! [Subscribe to the newsletter](https://jobs.date-fns.org).
+  
 </p>
 
 <br />
