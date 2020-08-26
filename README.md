@@ -16,14 +16,12 @@
   </a>
 </p>
 
-<hr>
-<p align="center">
-  <b>date-fns v2 is out 🚀</b> 
-  <br>
-  <a href="https://github.com/date-fns/date-fns/blob/master/CHANGELOG.md">see the changelog</a> and checkout <a href="https://github.com/date-fns/date-fns-upgrade">@date-fns/upgrade</a> / <a href="https://github.com/date-fns/date-fns-upgrade-codemod">@date-fns/upgrade-codemod</a> if you are coming from v1.
-</p>
 
-# Like [lodash](https://lodash.com) for dates
+<p align="center">
+  <a href="asdf">date-fns v2 is out 🚀</a> 
+</p>
+<hr>
+# It's like [lodash](https://lodash.com) for dates
 - it has [**180+ functions** for all occasions](https://date-fns.org/docs/).
 - **Modular**: fdgg fd 
 - **Native dates**: asdsa
