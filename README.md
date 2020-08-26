@@ -14,13 +14,12 @@
   
   [🚀 date-fns v2 is out](#docs)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[📖 Documentation](https://date-fns.org/docs/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[🧑‍💻 JavaScript Jobs](#javascript-jobs-by-date-fns)
   
+  
+  Powering **>500k Projects**. **~7 
+  
+  Million Downloads/Week**
 </div>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/date-fns">
-    <img src="https://nodei.co/npm/date-fns.png?compact=true">
-  </a>
-</p>
 
 <hr>
 
